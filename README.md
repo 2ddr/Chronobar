@@ -2,8 +2,8 @@
 
 **Client Time Tracker.** A thin always-on-top strip that counts your working time per client. Pick a client, press the timer, work. That's it.
 
-![Chronobar Free](assets/Chronobar_free.gif)
-![Chronobar Pro](assets/Chronobar_pro.gif)
+![Chronobar Free](Assets/Chronobar_free.gif)
+![Chronobar Pro](Assets/Chronobar_pro.gif)
 
 > **Beta:** all Pro gadgets are unlocked until **November 1, 2026, 00:00 UTC**. After that date the app runs as the Free edition. Pro will return as a paid upgrade.
 
