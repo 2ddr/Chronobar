@@ -55,6 +55,13 @@ Nothing is ever sent anywhere.
 
 A skin is a folder (or a zip) with `skin.json`, `skin.html` and `skin.css`. Put it into the `Skins` folder next to the exe and pick it from the menu. Full instructions: [docs/SKIN_GUIDE.md](docs/SKIN_GUIDE.md).
 
+Skin examples:
+
+![default skin](Assets/skin0.png)
+![default skin](Assets/skin1.png)
+![default skin](Assets/skin2.png)
+![default skin](Assets/skin3.png)
+
 ## Feedback and support
 
 - Open an [issue](../../issues) here.
