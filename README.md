@@ -58,8 +58,11 @@ A skin is a folder (or a zip) with `skin.json`, `skin.html` and `skin.css`. Put 
 Skin examples:
 
 ![default skin](Assets/skin0.png)
+
 ![default skin](Assets/skin1.png)
+
 ![default skin](Assets/skin2.png)
+
 ![default skin](Assets/skin3.png)
 
 ## Feedback and support
