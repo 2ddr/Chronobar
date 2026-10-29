@@ -2,15 +2,11 @@
 
 **Client Time Tracker.** A thin always-on-top strip that counts your working time per client. Pick a client, press the timer, work. That's it.
 
-**Chronobar Free:**
-
-![Chronobar Free](Assets/Chronobar_free.gif)
-
-**Chronobar Pro:**
-
 ![Chronobar Pro](Assets/Chronobar_pro.gif)
 
-> **Beta:** all Pro gadgets are unlocked until **November 1, 2026, 00:00 UTC**. After that date the app runs as the Free edition. Pro will return as a paid upgrade.
+![Chronobar Pro](Assets/over_tabs.png)
+
+> **Beta:** all Pro gadgets are unlocked until **December 1, 2026, 00:00 UTC**. After that date the app runs as the Free edition. Pro will return as a paid upgrade.
 
 ## Features
 
@@ -21,6 +17,10 @@
 - **Tray icon.** Close the window and it keeps running in the tray.
 - **Portable.** No installer. Your data lives next to the exe.
 - **Private.** No network access, no telemetry, no accounts.
+
+**Chronobar Pro:**
+
+![Chronobar Pro](Assets/Screenshot_25.png)
 
 ## Free and Pro
 
